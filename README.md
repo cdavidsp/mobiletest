@@ -81,8 +81,8 @@ y tambien algunas librerias de terceros segun:
 Pantallazos
 -----------
 
-![CharactersFragment](screenshots/Screenshot_1601325140.png "Personajes en Lista")
-![CharactersFragment](screenshots/Screenshot_1601325144.png "Personajes en Grilla")
+![CharactersFragment](screenshots/Screenshot_1601329836.png "Personajes en Lista")
+![CharactersFragment](screenshots/Screenshot_1601329840.png "Personajes en Grilla")
 ![CharacterFragment](screenshots/Screenshot_1601325150.png "Detalle del personaje")
 
 
