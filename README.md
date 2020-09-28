@@ -16,7 +16,7 @@ el cual sirve como unica fuente de informacion, y ayuda para el soporte del app 
 
 Paging library es usada para la paginacion online and offline.
 
-Kotlin Coroutines gestionan llamadas.
+Se usa Kotlin Coroutines.
 
 Navigation component gestiona la navegacion.
 
@@ -69,10 +69,10 @@ y tambien algunas librerias de terceros segun:
   * [Layout]
   * [Material] - Material Components.
 * Third party
-  * [Kotlin Coroutines][91] para gestionar hilos del back y simplificar el codigo reduciendo el usa de Callbacks.
+  * [Kotlin Coroutines] para gestionar hilos del back y simplificar el codigo reduciendo el usa de Callbacks.
   * [Dagger 2] Para la inyeccion de dependencias.
   * [Retrofit] - Para la conexion a los servicios REST
-  * [OkHttp 3][ Cliente HTTP.
+  * [OkHttp 3] Cliente HTTP.
   * [GSON] Conversor JSON.
   * [Glide] Para cargar imagenes.
   * [Timber] para el Looging.
