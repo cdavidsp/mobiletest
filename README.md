@@ -32,7 +32,7 @@ Se tiene 2 pantallas:
 
  1. Listado de personajes 
     
-    https://gateway.marvel.com/v1/public/characters?apikey=1d729f9ba72f2ff8e572fcb170ff011c&hash=96088a8d28c32fd6cce3372347ef47f5&ts=1&offset=20
+    https://gateway.marvel.com/v1/public/characters?apikey=xx&hash=xx&ts=1&offset=20
     
     Con paginacion usando Paging.
     
