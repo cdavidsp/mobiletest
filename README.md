@@ -1,17 +1,17 @@
-# mobiletest
-Marvel Characters App
+Personajes de Marvel App
 =========================
 
 Introduction
 ------------
 
-La aplicación usa Clean Architecture based on MVVM y el patron Repository. 
+La aplicación usa Clean Architecture basada en MVVM y el patron Repository. 
 
 Se ha implementado siguiendo lo recomendado por Google [Guide to app architecture](https://developer.android.com/jetpack/docs/guide).
 
 ![Guide to app architecture](screenshots/guide-to-app-architecture.png "Guide to app architecture")
 
 La aplicacion esta escrita en Kotlin.
+
 - Se usa Android Jetpack.
 - Para la ejecucion de peticiones HTTP se usa Retrofit, OkHttp y GSON. Los datos son guardados en una Base de datos usando Room,
 el cual sirve como unica fuente de informacion, y ayuda para el soporte del app sin internet.
