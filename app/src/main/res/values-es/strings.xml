@@ -1,0 +1,18 @@
+<resources>
+
+
+    <string name="app_name" >Marvel App Personajes</string>
+
+    <string name="menu_item_share" >Share</string>
+    <string name="characters_title">MARVEL - Personajes</string>
+
+    <string name="comics">Comics: </string>
+    <string name="series">Series: </string>
+    <string name="stories">Historias: </string>
+    <string name="events">Eventos: </string>
+    <string name="more_detail">MAS DETALLE</string>
+    <string name="wiki">WIKI</string>
+    <string name="comic_link">COMIC LINK</string>
+    <string name="share_character"><![CDATA[" <string name=\"share_character\">Mira el personaje %s  : %s</string>"]]></string>
+
+</resources>

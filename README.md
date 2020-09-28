@@ -81,8 +81,10 @@ y tambien algunas librerias de terceros segun:
 Pantallazos
 -----------
 
-![CharactersFragment](screenshots/Screenshot_1601329836.png "Personajes en Lista")
-![CharactersFragment](screenshots/Screenshot_1601329840.png "Personajes en Grilla")
-![CharacterFragment](screenshots/Screenshot_1601325150.png "Detalle del personaje")
+![SplashActivity](screenshots/marvel_splash.png "Personajes en Lista")
+![CharactersFragment](screenshots/marvel_list.png "Personajes en Lista")
+![CharactersFragment](screenshots/marvel_grid.png "Personajes en Grilla")
+![CharacterFragment](screenshots/marvel_detail.png "Detalle del personaje")
+![CharacterFragment](screenshots/marvel_detail_2.png "Detalle del personaje")
 
 

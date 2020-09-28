@@ -1,26 +1,18 @@
 <resources>
 
 
-    <!-- Resources that do not require translation -->
-    <string name="app_name" translatable="false">Marvel App Personajes</string>
-    <string name="navigation_drawer_header_title" translatable="false">Marvel App Personajes</string>
+    <string name="app_name" >Marvel App Characters</string>
 
-    <!-- Translatable resources -->
-    <string name="filter" translation_description="Common Filter">Filter</string>
-    <string name="grid" translation_description="Common Filter">Switch between grid and list</string>
-    <string name="navigation_drawer_header_content_description">Navigation drawer header logo</string>
+    <string name="menu_item_share" >Share</string>
+    <string name="characters_title">MARVEL - Characters</string>
 
-    <string name="menu_item_share" translation_description="The label for the Share menu item">Share</string>
-    <string name="characters_title">MARVEL - Personajes</string>
-
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="comics">Comics: </string>
     <string name="series">Series: </string>
-    <string name="stories">Historias: </string>
-    <string name="events">Eventos: </string>
-    <string name="more_detail">MAS DETALLES</string>
+    <string name="stories">Stories: </string>
+    <string name="events">Events: </string>
+    <string name="more_detail">MORE DETAIL</string>
     <string name="wiki">WIKI</string>
-    <string name="comic_link">LINK DEL COMIC</string>
+    <string name="comic_link">COMIC LINK</string>
     <string name="share_character"><![CDATA[" <string name=\"share_character\">Check out %s Character : %s</string>"]]></string>
 
 </resources>
