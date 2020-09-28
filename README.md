@@ -1,9 +1,6 @@
 Personajes de Marvel App
 =========================
 
-Introduction
-------------
-
 La aplicación usa Clean Architecture basada en MVVM y el patron Repository. 
 
 Se ha implementado siguiendo lo recomendado por Google [Guide to app architecture](https://developer.android.com/jetpack/docs/guide).
