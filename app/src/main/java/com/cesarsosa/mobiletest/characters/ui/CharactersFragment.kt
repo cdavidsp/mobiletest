@@ -84,7 +84,6 @@ class CharactersFragment : Fragment(), Injectable {
     private fun subscribeUi(adapter: CharactersAdapter) {
         viewModel.characters.observe(viewLifecycleOwner) {
 
-            binding.spinner.hide()
             adapter.submitList(it)
         }
     }
